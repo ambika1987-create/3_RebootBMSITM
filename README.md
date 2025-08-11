@@ -12,6 +12,10 @@ GitHub:ambika1987
 
 Email: ambikagn@bmsit.in
 
+**Team Members**
+Member 2 : Dr. Vidya R Pai AI / ML Developer
+Member 3 : Dr. Radhika K R  Frontend and Backend Developer
+
 **Key Features**
 
 **Ground-Level Water Detection**
