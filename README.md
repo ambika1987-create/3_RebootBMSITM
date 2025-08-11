@@ -48,7 +48,7 @@ Member 3 : Dr. Radhika K R  Frontend and Backend Developer
 
 -> Water-crop correlation modeling
 
--> ROI calculations for recommended crops
+-> Return on Investment calculations for recommended crops
 
 **User-Friendly Platform**
 
