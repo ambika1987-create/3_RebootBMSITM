@@ -1,5 +1,13 @@
 **HydroSense AI**: "An Intelligent Ground Level Water Detection and Crop Optimization Platform"
 
+**Problem Statement**
+
+- Water scarcity affects 2+ billion people globally
+  
+- 70% of freshwater used in agriculture
+  
+- Requires intelligent water management system
+
 **Project Overview** : HydroSense AI is an intelligent software platform that detects ground-level water availability and predicts optimal crops to be grown in specific regions. Our system analyzes satellite imagery, weather APIs, geological data, and agricultural databases using machine learning algorithms to provide farmers with accurate water detection insights and data-driven crop recommendations for sustainable agriculture , to empower farmers with intelligent ground-level water detection and precise crop prediction capabilities, enabling them to make informed agricultural decisions that maximize yields while ensuring sustainable water resource utilization.
 
 ![GL1](https://github.com/user-attachments/assets/3d325a67-a2cc-4359-a651-58730d027b33)
