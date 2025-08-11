@@ -2,6 +2,11 @@
 
 **Project Overview** : HydroSense AI is an intelligent software platform that detects ground-level water availability and predicts optimal crops to be grown in specific regions. Our system analyzes satellite imagery, weather APIs, geological data, and agricultural databases using machine learning algorithms to provide farmers with accurate water detection insights and data-driven crop recommendations for sustainable agriculture , to empower farmers with intelligent ground-level water detection and precise crop prediction capabilities, enabling them to make informed agricultural decisions that maximize yields while ensuring sustainable water resource utilization.
 
+![GL1](https://github.com/user-attachments/assets/3d325a67-a2cc-4359-a651-58730d027b33)
+
+![GL2](https://github.com/user-attachments/assets/090bc092-a285-44e7-882e-f032f79f40a4)
+
+
 **Team Information**
 
 Team ID: 3
@@ -107,3 +112,41 @@ Docker - Containerization
 GitHub Actions - CI/CD pipeline
 
 Nginx - Web server
+
+** DATA FLOW SUMMARY**
+
+<img width="825" height="400" alt="dfl" src="https://github.com/user-attachments/assets/19983ab9-4731-4e41-9e03-f165b39951e6" />
+
+**Business Impact  of the project**
+
+**For Farmers**
+
+**Water Conservation**: Reduction in irrigation water usage
+
+**Yield Optimization** : increase in crop productivity
+
+**Cost Savings** :  optimized resource usage per hectare
+
+**Risk Mitigation** : Early warning for drought and water scarcity
+
+**For Agricultural Stakeholders**
+
+**Data-Driven Decisions** : Evidence-based crop planning and investment
+
+**Market Intelligence**: Supply chain optimization based on yield predictions
+
+**Sustainability Metrics**: Environmental impact tracking and reporting
+
+**Insurance Applications**: Risk assessment for crop insurance products
+
+**For Government & Policy Makers**
+
+**Resource Planning**:  Regional water resource allocation
+
+**Food Security** : National crop production forecasting
+
+**Climate Adaptation** : Long-term agricultural planning for climate change
+
+**Economic Impact**: Agricultural GDP optimization strategies
+
+
